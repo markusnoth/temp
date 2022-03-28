@@ -36,7 +36,51 @@
       <name>thc_import felsberg</name>
       <Placemark>
         <name>H2V 1303</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 363&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;H2V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;1303&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Kirche, Schiff, Fassade bergseits (Nord), schräger Mauerabsatz: 3.50 m von der Nordwestecke, 0.65 m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;https://data.geo.admin.ch/ch.swisstopo.fixpunkte-lfp1/protokolle/LN02AV/1195/CH0200000GR1_363.pdf&quot;&gt;CH0200000GR1_363.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -46,7 +90,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 9</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1359&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;9&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Felsberg,Altdorf, Treppenlift bei Parkplatz der Kirche, Betonsockel, 0.80 m von der Parkuhr, 0.45 m vom Rand, 0,60 m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1359.pdf&quot;&gt;CH0200000GR1_1359.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -56,7 +144,51 @@
       </Placemark>
       <Placemark>
         <name>T0V HP4</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1318&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;HP4&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Hilfspunkt&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1318.pdf&quot;&gt;CH0200000GR1_1318.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -66,7 +198,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 34</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1086&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;34&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Treppe zur Kirche, unterster Tritt, rechte Seite, Grenzbolzen: 0.10 m über Strasse.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;Mit Kugel messen, Code 0&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1086.pdf&quot;&gt;CH0200000GR1_1086.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -76,7 +252,52 @@
       </Placemark>
       <Placemark>
         <name>T4H U</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 361a&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;U&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Untere Gasse 2, Wohnhaus, Ecke rechts vom Eingang, vorspringender Fundamentblock: Seite gegen den Eingang, 
+0.19 m vor der Fassade, 0.28 m über Betonbankett.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;https://data.geo.admin.ch/ch.swisstopo.fixpunkte-lfp1/protokolle/LN02AV/1195/CH0200000GR1_361a.pdf&quot;&gt;CH0200000GR1_361a.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -86,7 +307,51 @@
       </Placemark>
       <Placemark>
         <name>T4H S</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 586&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;S&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Kein Text.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_586.pdf&quot;&gt;CH0200000GR1_586.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -96,7 +361,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 1</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1350&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;1&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Flidaweg, rechte Strassenseite Richtung Westen, Niete, Elektrokasten bei Schild: &quot;Schlafen im Stroh&quot;, 0.30 m von Strassenrand, 0.05 m über Strassenhöhe.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1350.pdf&quot;&gt;CH0200000GR1_1350.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -106,7 +415,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 2</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1351&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;2&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse, bei Wendeschlaufe Ortsbus, auf Felsblock innerhalb Wendeschlaufe, 1.10 m vom Strassenrand, 0.55 m über Strassenhöhe.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1351.pdf&quot;&gt;CH0200000GR1_1351.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -116,7 +469,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 3</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1352&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;3&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse125, nördlich Industriehalle, neben &quot;Robidog&quot;, 0.10 m von Strassenrand, Strassenhöhe.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1352.pdf&quot;&gt;CH0200000GR1_1352.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -126,7 +523,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 4</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1353&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;4&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Feldweg zur Pegelstation, Ende Holz-Ein-Zäunung, Markstein auf der Höhe des Haagpfosten , 0.50 m vom Pfosten, 0.40 m vom Wegrand, 0,12 m unter Boden, mit Kugel messen.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1353.pdf&quot;&gt;CH0200000GR1_1353.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -136,7 +577,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 5</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1354&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;5&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse, Kreuzung-Abzweigung Richtung Kieswerk, Südseite, in Verlängerung der Achse der Zufahrt zum Kieswerk, Vermessungsrohr,0.20 m vom Südrand der Strasse, auf Strassenhöhe, mit Kugel messen.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1354.pdf&quot;&gt;CH0200000GR1_1354.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -146,7 +631,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 6</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1355&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;6&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Kein Text.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1355.pdf&quot;&gt;CH0200000GR1_1355.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -156,7 +685,51 @@
       </Placemark>
       <Placemark>
         <name>H5V A</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1356&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;H5V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;A&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;&quot;Sägawisli&quot;, Pegelstation, oberes Betonfundament bei Beginn Gitterrost-Treppe zu Pegelschiene, Südwestecke, 0.13m von der Westecke, 0.09m v0n der Südkante, 0.60m unter der Böschung.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1356.pdf&quot;&gt;CH0200000GR1_1356.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -166,7 +739,51 @@
       </Placemark>
       <Placemark>
         <name>H5V B</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1357&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;H5V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;B&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;&quot;Sägawisli&quot;, Pegelstation, Niete auf dem unteren Betonsockel, Westseite, 0.12m von Nordkante, 0.16m v0n Westkante, 0.75m über Böschung.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1357.pdf&quot;&gt;CH0200000GR1_1357.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -176,7 +793,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 44</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1100&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;44&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Veloweg, Betonrampe mit Treppe in der Uferböschung, gegenüber Unterführung: Mitte oberster Tritt.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1100.pdf&quot;&gt;CH0200000GR1_1100.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -186,7 +847,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 45</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1101&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;45&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Hauptstrasse, Südostseite, Trottoirrandstein, in der Rundung vor Kantonalbank: 2.13 m von der Hauptstrasse, 1.32 von der Gebäudeecke KB, 0.1 m über Strasse (Hohlniete).&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;Mit Kugel messen, Code 0&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1101.pdf&quot;&gt;CH0200000GR1_1101.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -196,7 +901,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 8</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1358&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;8&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;&quot;Steinbruch Caneu&quot;, Barriere linke Seite, Sockel, vor Pfosten, 0.10 m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1358.pdf&quot;&gt;CH0200000GR1_1358.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -206,7 +955,51 @@
       </Placemark>
       <Placemark>
         <name>T4H D</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 583&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;D&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse: Zufahrt zu Kieswerk &quot;Käppeli&quot;, &quot;Steinbruch Caneu&quot;, Felsband, westlich von der Kieswerkzufahrt, 43m westlich von Kieswegzufahrt, 0.30m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_583.pdf&quot;&gt;CH0200000GR1_583.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -216,7 +1009,51 @@
       </Placemark>
       <Placemark>
         <name>T4H E</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 584&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;E&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse: Zufahrt zu Kieswerk &quot;Käppeli&quot;, &quot;Steinbruch Caneu&quot;, Felsband, westlich von der Kieswerkzufahrt, 52.50 m westlich von Kieswegzufahrt, 9.50 m von HFP GR1 583, 0.30m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_584.pdf&quot;&gt;CH0200000GR1_584.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -226,7 +1063,51 @@
       </Placemark>
       <Placemark>
         <name>T4H F</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 585&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;F&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse: Zufahrt zu Kieswerk &quot;Käppeli&quot;, &quot;Steinbruch Caneu&quot;, Felsband, westlich von der Kieswerkzufahrt, 43m westlich von Kieswegzufahrt, 0.30m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_585.pdf&quot;&gt;CH0200000GR1_585.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -236,7 +1117,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 43</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1095&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;43&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Veloweg, ehemalige Brücke über den Rhein, Widerlager, Seite flussaufwärts, Krönung: 0.23 m rechts von Zaunpfosten, 0.15 von der Kante gegen den Weg, bodeneben.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1095.pdf&quot;&gt;CH0200000GR1_1095.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -246,7 +1171,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 33</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1085&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;33&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Taminserstrasse, Südseite, Randstein vor Gartenmauer: 0.42 m vom Mauerende gegen Chur, 0.25 m vor der Mauer, 0.02 m über Strasse.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1085.pdf&quot;&gt;CH0200000GR1_1085.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -256,7 +1225,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 42</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1094&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;42&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Hauptstrasse, Nordseite, Holzkreuz, Betonsockel: 1.1 m vom Trottoirrand, bodeneben.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1094.pdf&quot;&gt;CH0200000GR1_1094.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -266,7 +1279,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 41</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1093&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;41&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Veloweg, Südostseite, Holiday-Cleany, Camper-Station, Betonsockel, Ecke gegen Chur: 0.95 m vor der Gebäudefassade, 0.1 m über Boden.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1093.pdf&quot;&gt;CH0200000GR1_1093.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -276,7 +1333,52 @@
       </Placemark>
       <Placemark>
         <name>T4H L</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 473&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T4H&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;L&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Unterführung der Hauptstrasse unter der Bahnlinie, Widerlager gegen Domat/Ems, Ostseite: 0.25 m von der Widerlagerecke,
+0.4 m über Trottoir.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;https://data.geo.admin.ch/ch.swisstopo.fixpunkte-lfp1/protokolle/LN02AV/1195/CH0200000GR1_473.pdf&quot;&gt;CH0200000GR1_473.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
@@ -286,7 +1388,51 @@
       </Placemark>
       <Placemark>
         <name>T0V 40</name>
-        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+&lt;head&gt;
+    &lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;/head&gt;
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+    &lt;table
+        style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+        &lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+            &lt;td&gt;$KAMPAGNE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;table
+                    style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;HFP&lt;/td&gt;
+                        &lt;td&gt;GR1 1092&lt;/td&gt;
+                    &lt;/tr&gt;
+                     &lt;tr&gt;
+                        &lt;td&gt;KENNZEICHNUNG&lt;/td&gt;
+                        &lt;td&gt;T0V&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;INSCHRIFT&lt;/td&gt;
+                        &lt;td&gt;40&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;PUNKTBESCHREIBUNG&lt;/td&gt;
+                        &lt;td&gt;Veloweg, Bachbrücke, Widerlager linkes Ufer, bachabwärts, Krönung: vor Holzpfosten, auf Weghöhe.&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;BEMERKUNG&lt;/td&gt;
+                        &lt;td&gt;-&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;Protokoll&lt;/td&gt;
+                        &lt;td&gt;&lt;a href=&quot;CH0200000GR1_1092.pdf&quot;&gt;CH0200000GR1_1092.pdf&lt;/a&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
         <styleUrl>#Style01</styleUrl>
         <Point>
           <tessellate>1</tessellate>
