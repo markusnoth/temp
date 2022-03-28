@@ -1,0 +1,409 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+  <Document>
+    <name>Zeichnung</name>
+    <Style id="Style01">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>https://api3.geo.admin.ch/color/255,0,0/circle-24@2x.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="Style02">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>https://api3.geo.admin.ch/color/255,0,0/circle-24@2x.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffe600a9</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Folder id="Points">
+      <name>thc_import felsberg</name>
+      <Placemark>
+        <name>H2V 1303</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.470401,46.845492</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 9</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.47007,46.845573</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V HP4</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.470037,46.845573</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 34</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.470953,46.845577</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H U</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.471117,46.845474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H S</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.471144,46.845343</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 1</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.467426,46.843721</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 2</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.464381,46.842654</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 3</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.460599,46.841704</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 4</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.455448,46.840873</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 5</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451458,46.840359</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 6</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.450703,46.839562</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H5V A</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451668,46.838735</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H5V B</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451656,46.838702</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 44</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451701,46.838102</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 45</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451876,46.836969</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 8</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.451126,46.841206</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H D</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.450633,46.841062</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H E</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.450514,46.841038</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H F</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.449928,46.840886</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 43</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.457764,46.83779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 33</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.47172,46.845236</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 42</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.457806,46.837088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 41</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.461701,46.838235</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T4H L</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.459665,46.836914</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T0V 40</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;$KAMPAGNE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;$ABSCHNITTSBESCHREIBUNG&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;$SHAPE_LENGTX&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <Point>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>9.464897,46.838825</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="Hauptzug">
+      <name>thc_import felsberg</name>
+      <Placemark id="OID_966">
+        <name>Altdorf</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;Altdorf&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;2306 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style01</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.470401,46.845492 9.470252,46.845426 9.470099,46.845485 9.47007,46.845573 9.470037,46.845573 9.470025,46.845644 9.470226,46.845738 9.470516,46.84574 9.470953,46.845577 9.471117,46.845474 9.471144,46.845343 9.471194,46.845228 9.470113,46.844973 9.469484,46.844631 9.468479,46.844178 9.467826,46.843848 9.467426,46.843721 9.465686,46.843036 9.464381,46.842654 9.462381,46.841886 9.460599,46.841704 9.458409,46.84116 9.456216,46.841056 9.455448,46.840873 9.453726,46.840586 9.451458,46.840359 9.450504,46.840312 9.45053,46.83985 9.450703,46.839562 9.450838,46.838857 9.451662,46.838816 9.451668,46.838735 9.451656,46.838702 9.451729,46.83813 9.451701,46.838102 9.45174,46.838039 9.451876,46.836969</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Folder id="Zweige">
+      <name>thc_import felsberg</name>
+      <Placemark id="OID_967">
+        <name>Altdorf / Rütenen</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;Altdorf / Rütenen&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;196 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.451458,46.840359 9.451245,46.840979 9.451126,46.841206 9.450633,46.841062 9.450514,46.841038 9.449928,46.840886</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_1601">
+        <name>Stefan</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;Stefan&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;559 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.451458,46.840359 9.457764,46.83779</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_968">
+        <name>Rütenen</name>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;Rütenen&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;52 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.471144,46.845343 9.471252,46.845215 9.47172,46.845236</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_1602">
+        <name/>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;78 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.457764,46.83779 9.457806,46.837088</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_1603">
+        <name/>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;304 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.457764,46.83779 9.461701,46.838235</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_1604">
+        <name/>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;214 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.461701,46.838235 9.459665,46.836914</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="OID_1605">
+        <name/>
+        <description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;&lt;head&gt;&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;&lt;/head&gt;&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;&lt;td&gt;thc_import felsberg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr&gt;&lt;td&gt;ID&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;Linienl&amp;auml;nge&lt;/td&gt;&lt;td&gt;252 Meter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</description>
+        <styleUrl>#Style02</styleUrl>
+        <MultiGeometry>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.461701,46.838235 9.464897,46.838825</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
